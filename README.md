@@ -8,4 +8,4 @@ Projeto simples para compreender a manipular atributos e estilos da página atra
 ### Tecnologias Utilizadas
 - HTML
 - CSS
--JavaScript
+- JavaScript
